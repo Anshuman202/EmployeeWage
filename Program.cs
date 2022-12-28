@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Welocome to Employee Wage Problem");
 
-            EmployeeAttendence.CheckAttendence();
+            PartTimeWagecs.Cal_Pwage();
         }
     }
 }
