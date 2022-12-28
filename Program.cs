@@ -1,4 +1,4 @@
-﻿namespace EmployeeWageProblem
+namespace EmployeeWageProblem
 {
     class Program
     {
@@ -6,7 +6,11 @@
         {
             Console.WriteLine("Welocome to Employee Wage Problem");
 
-            EmployeeAttendence.CheckAttendence();
+            //EmployeeAttendence.CheckAttendence();
+
+            Console.WriteLine("====================================================================");
+
+            EmployeeLimitedWageCalculate.Cal_lmtWage();
         }
     }
 }
