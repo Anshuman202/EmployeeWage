@@ -10,7 +10,7 @@ namespace EmployeeWageProblem
 
             Console.WriteLine("====================================================================");
 
-            EmployeeLimitedWageCalculate.Cal_lmtWage();
+            RegularWage.Cal_Rwage();
         }
     }
 }
