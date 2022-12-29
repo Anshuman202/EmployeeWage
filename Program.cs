@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Welocome to Employee Wage Problem");
 
-            EmployeeAttendence.CheckAttendence();
+            MonthWage.Cal_Monthwage();
         }
     }
 }
